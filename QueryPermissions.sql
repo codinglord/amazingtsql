@@ -1,5 +1,5 @@
 /*
-
+Ake test
 From -> http://stackoverflow.com/questions/7048839/sql-server-query-to-find-all-permissions-access-for-all-users-in-a-database
 Credited by -> http://stackoverflow.com/users/9266/jeremy
 
